@@ -1,4 +1,4 @@
-version: 2026032561ccc9447bfb0e6cc76deef1dcf84677
+version: 20260928bffc3a6e2a07485cd14e7c56874985d2
 downloadprefix: http://projectquarm.com/rof/
 downloads:
 - name: RaceData.txt
@@ -26,9 +26,9 @@ downloads:
   date: "20250401"
   size: 170
 - name: spells_en.txt
-  md5: 9812be1e3d82f5ca2046b7075b6a2f94
-  date: "20250810"
-  size: 1909400
+  md5: c2cb1f472cc930d525a782b7cb487337
+  date: "20260928"
+  size: 1909376
 - name: uifiles\default\EQUI.xml
   md5: 1ff5cd1ee41d45307cd27b8be846808d
   date: "20250209"
